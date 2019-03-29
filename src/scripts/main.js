@@ -1,4 +1,5 @@
-{/* <article class="employee">
+console.log("main.js");
+/* <article class="employee">
     <header class="employee__name">
         <h1>Rainu Ittycheriah</h1>
     </header>
@@ -8,5 +9,5 @@
     <section class="employee__computer">
         Currently using a 2015 MacBook Pro
     </section>
-</article> */}
+</article> */
 
