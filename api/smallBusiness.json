@@ -1,0 +1,50 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Mike"
+        },
+        {
+            "id": 2,
+            "name": "Jon"
+        },
+        {
+            "id": 3,
+            "name": "Sue"
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "name": "IT",
+            "employeeId": 1
+        },
+        {
+            "id": 2,
+            "name": "Finance",
+            "employeeId": 2
+        },
+        {
+            "id": 3,
+            "name": "Accounting",
+            "employeeId": 3
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "name": "SB-123456",
+            "employeeId": 1
+        },
+        {
+            "id": 2,
+            "name": "SB-654321",
+            "employeeId": 2
+        },
+        {
+            "id": 3,
+            "name": "SB-987654",
+            "employeeId": 3
+        }
+    ]
+}
